@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/xyzmesh2csv" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
